@@ -9,8 +9,15 @@ This repository contains all materials for my internship lesson on **React**.
 
 ### 🚀 Setup
 
-To switch to the latest branch and get everything ready, simply run on your terminal:
+To switch to the branch with completed code and get everything ready, simply run on your terminal:
 
 ```bash
 setup.bat
+```
+
+or 
+
+```bash
+git fetch --all
+git switch -t origin/worked
 ```
